@@ -1,0 +1,22 @@
+{
+  "name": "@stormgle/jtoken-util",
+  "version": "1.0.0",
+  "description": "util for create and verify token, use in stormgle account base project",
+  "main": "util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stormgle/jtoken-util.git"
+  },
+  "author": "duongtdn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stormgle/jtoken-util/issues"
+  },
+  "homepage": "https://github.com/stormgle/jtoken-util#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.2.1"
+  }
+}
